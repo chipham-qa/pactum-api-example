@@ -1,0 +1,31 @@
+# Node.js dependencies
+node_modules/
+package-lock.json
+yarn.lock
+mochawesome-report/
+
+# Logs
+logs
+*.log
+npm-debug.log*
+
+# Environment variables
+.env
+.env.*.local
+
+# Build files
+dist/
+build/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# IDE and editor config files
+.vscode/
+.idea/
+
+# Testing and coverage output
+coverage/
+*.test.js
+*.spec.js
